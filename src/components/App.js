@@ -8,6 +8,7 @@ import SubHeading from "./SubmitButton";
 const App = () => {
   return (
     <div id="main">
+      {/* <p><p/> */}
       <Heading/>
       <InputQuery/>
       <SubmitButton/>
